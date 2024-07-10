@@ -19,8 +19,5 @@ https://archive.org/details/cafe-sdk-...
 Serial Key (for the Unity license):
 
 I3-K6SY-99ZB-JYFZ-DZQP-E8PH
-Save these files on a backup drive just in case they go away one day :)
 
-▀▀▀
-Join the community here:
-  / discord  
+Save these files on a backup drive just in case they go away one day :)
