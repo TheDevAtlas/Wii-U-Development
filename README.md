@@ -6,18 +6,15 @@
 Where To Download:
 https://archive.org/download/nintendo...
 
-Backup Downloads
-
 Unity Wii U 4.0.1:
-https://archive.org/details/unityforw...
+https://archive.org/details/unityforwiiu40120171205
 OR
-https://archive.org/details/nintendo-...
+https://archive.org/details/nintendo-permanent-master
 
 Cafe SDK 2.12.13:
-https://archive.org/details/cafe-sdk-...
+https://archive.org/details/cafe-sdk-2.12.13
 
 Serial Key (for the Unity license):
 
 I3-K6SY-99ZB-JYFZ-DZQP-E8PH
-
 Save these files on a backup drive just in case they go away one day :)
